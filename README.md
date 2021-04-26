@@ -55,10 +55,12 @@ Men on the other hand have the record negative outlier, breaking the negative av
 
 ### Data Density
 
-LINK 2
+![Density Map: Average Polarity vs Average Subjectivity](https://user-images.githubusercontent.com/80441475/116091375-219c1f00-a67b-11eb-85b8-bda3135b0e93.png)
+
+
 
 From the image we can see that albeit there’s concentration in an area, the data is seemingly scattered over a  considerable area, how can we better visualize it for a better insight? 
 
-LINK3
+![Density Map: Average Polarity vs Average Subjectivity with Median Line and Standard Deviation Band](https://user-images.githubusercontent.com/80441475/116091395-2660d300-a67b-11eb-88e9-624438984511.png)
 
 Plotting the median Line and the Standard Deviation Band we now can see that even though the data might look scattered the majority of it is still close to the median and within 1 Standard Deviation from the mean. 
