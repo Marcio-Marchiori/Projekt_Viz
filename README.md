@@ -87,3 +87,8 @@ Now looking at the highest average polarity scores we can see that they also ran
 
 From these we can infer that both extremes on the polarity scale are associated with little to no objectivity in their mentions, while the polar opposite, candidates that rank as being mentioned as objectivitive are ranked as neutral or close to when it comes to polarity, we can see Louis XV, Louis XVI and Dmitri Mendeleev fit clearly on that criteria, highly objective but almost neutral when it comes to polarity.
 
+# Conclusion
+
+From the data gathered we can see that if we want to use a beloved figure, there will be a considerable amount of subjectivity in how the overall public perceives those figures. That poses an opportunity to gather engagement through public sentiment and subjectivity
+
+
