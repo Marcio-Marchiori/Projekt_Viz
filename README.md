@@ -49,5 +49,16 @@ After connecting our PostgreSQL database to Tableau we are finally able to start
 
 ![Box_pol](https://user-images.githubusercontent.com/80441475/116087535-54441880-a677-11eb-9e50-4c668eecf39b.png)
 
-As we can see from this box plot comparison women tend to have a smaller, albeit higher, Polarity, women also have the only outlier able to crack the 0.6 barrier. Men on the other hand have the record negative outlier, breaking the negative average polarity record by an astonishing difference.
+As we can see from this box plot comparison women tend to have a smaller, albeit higher, Polarity, and while the men do have a significant amount of outliers above the 0.4 mark, women have the only outlier able to crack the 0.6 barrier.
 
+Men on the other hand have the record negative outlier, breaking the negative average polarity record by an astonishing difference.
+
+### Data Density
+
+LINK 2
+
+From the image we can see that albeit there’s concentration in an area, the data is seemingly scattered over a  considerable area, how can we better visualize it for a better insight? 
+
+LINK3
+
+Plotting the median Line and the Standard Deviation Band we now can see that even though the data might look scattered the majority of it is still close to the median and within 1 Standard Deviation from the mean. 
