@@ -1,3 +1,5 @@
+![phylo](https://user-images.githubusercontent.com/80441475/116099169-139dcc80-a682-11eb-9532-1e0646774d09.jpg)
+
 # The New Face For Your Museum
 
 This project set out to find the new face of a Museum from a list of historically important people from all the human recorded history by scraping Twitter data for mentions and utilizing NLP to categorize the mentions by how each historic figure was perceived by the general public by analyzing two metrics:
@@ -89,6 +91,6 @@ From these we can infer that both extremes on the polarity scale are associated 
 
 # Conclusion
 
-From the data gathered we can see that if we want to use a beloved figure, there will be a considerable amount of subjectivity in how the overall public perceives those figures. That poses an opportunity to gather engagement through public sentiment and subjectivity
+From the data gathered we can see that if we want to use a beloved figure, there will be a considerable amount of subjectivity in how the overall public perceives those figures. That poses an opportunity to gather engagement through public sentiment and subjectivity. We might even mix the neutral candidates with the most prominent beloved ones to create an expo that would attract public interest and subsequently revitalize the face of the museum.
 
 
